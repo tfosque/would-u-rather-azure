@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/66d6ffbd-dac6-4b22-98f5-c6a6ece080fa/resourceGroups/wur-node/providers/Microsoft.Web/sites/would-u-rather-azure",
+  "appService.deploySubpath": "."
+}
